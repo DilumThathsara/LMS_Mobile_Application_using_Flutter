@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509492406709",
+    "project_id": "proacademy-d1012",
+    "storage_bucket": "proacademy-d1012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509492406709:android:7b618e37b7ab0615f7d1fc",
+        "android_client_info": {
+          "package_name": "com.example.proacademy_moodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509492406709-p565vjm6s3obicbapch4vsmngp8ikbao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70LKp6-QHju5kwjba2y3m_YgcqOyENrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509492406709-p565vjm6s3obicbapch4vsmngp8ikbao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
